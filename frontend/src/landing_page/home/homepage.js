@@ -10,7 +10,7 @@ import OpenAccount from '../OpenAccount';
 import Footer from '../Footer';
 import Navbar from '../Navbar';
 
-function Homepage() {
+function HomePage() {
   return (
     <>
       <Navbar />
@@ -25,4 +25,4 @@ function Homepage() {
   );
 }
 
-export default Homepage;
+export default HomePage;
