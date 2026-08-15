@@ -31,7 +31,7 @@ function Stats() {
         <div className='col  p-5'>
           <img src="./media/images/ecosystem.png" className="img-fluid mb-3 mt-5" alt="Hero_image" style={{ width: '85%' }} />
           <div className='text-center' >
-            <a href='' className='mx-5' style={{ textDecoration: 'none' }}>Explore Trade-X<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+            <a href='' className='mx-5' style={{ textDecoration: 'none' }}>Explore Trade-X< i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             <a href='' style={{ textDecoration: 'none' }}>Start Trading <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
           </div>
         </div>
