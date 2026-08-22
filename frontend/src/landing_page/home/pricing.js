@@ -3,7 +3,7 @@ function Pricing() {
   return (
     <div className='container mb-5'>
       <div className='row'>
-        <div className='col-5 ps-5'>
+        <div className='col-5'>
           <h1 className='mb-5 fs-2'>Unbeatable pricing</h1>
           <p>We pioneered the concept of discount broking and price
             transparency in India. Flat fees and no hidden charges.</p>
@@ -26,5 +26,4 @@ function Pricing() {
     </div>
   );
 }
-
 export default Pricing;

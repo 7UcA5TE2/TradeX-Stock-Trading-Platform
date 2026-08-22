@@ -1,0 +1,23 @@
+.navbar{
+  /* border-bottom: 1px solid black; */
+  position: fixed;
+  width: 100%;
+  top: 0%;
+  background-color: #fff;
+}
+.cont{
+  display: flex;
+  justify-content: space-between;
+  padding-left: 40px ;
+  padding-right: 80px ;
+}
+.components{
+  display: flex;
+  gap: 20px;
+}
+.logo{
+  font-weight: bolder;
+  font-size:25px;
+  font-family: sans-serif;
+  letter-spacing: 2px;
+}

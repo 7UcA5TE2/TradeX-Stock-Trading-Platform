@@ -1,7 +1,7 @@
 import React from 'react';
 function OpenAccount() {
   return (
-    <div className="container p-5 text-center mb-5">
+    <div className="container  text-center mb-5">
       <div className='row'>
         <h1 className='mt-5'>Open a Trade-X account</h1>
         <p>Modern trading platform and powerful apps. Start investing with
