@@ -1,5 +1,4 @@
 import React from 'react';
-
 import Hero from './HeroSection';
 import Awards from './Awards';
 import Stats from './Stats';
