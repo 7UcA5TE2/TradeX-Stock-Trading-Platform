@@ -2,7 +2,6 @@ import React from 'react';
 import HeroSection from './Hero.js';
 import Team from './Team.js';
 
-import OpenAccount from '../OpenAccount';
 import Footer from '../Footer';
 import Navbar from '../Navbar';
 function AboutPage() {
@@ -11,7 +10,6 @@ function AboutPage() {
       <Navbar/>
       <HeroSection/>
       <Team/>
-      <OpenAccount/>
       <Footer/>
     </>
   );
