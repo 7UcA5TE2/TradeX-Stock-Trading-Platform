@@ -16,7 +16,6 @@ function ProductPage() {
       <LeftSection/>
       <RighttSection/>
       <Universe/>
-      <OpenAccount />
       <Footer />
     </>
   );
