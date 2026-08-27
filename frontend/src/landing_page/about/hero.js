@@ -3,10 +3,10 @@ function HeroSection() {
   return (
     <div className="container p-5 mt-5">
       <div className='row mt-5 mb-5'>
-        <h1 className='fs-2 text-center'>  Investing made simple with TradeX.<br />
+        <h1 className='fs-3 text-center text-muted'>  Investing made simple with TradeX.<br />
           Powerful technology for smarter trading.</h1>
       </div>
-      <hr />
+      <hr style={{marginTop:"100px"}} />
       <div className='row text-muted' style={{ marginTop: "80px", padding: "0px 40px 0px 40px", lineHeight: "1.8", fontSize: "1.2em" }}>
         < div className="col p-5">
           <p>
