@@ -8,7 +8,7 @@ function LeftSection({ imageURL, productName, productDescription, tryDemo, learn
         </div>
         <div className='col ms-5 mt-5' style={{ lineHeight: "1.8", paddingLeft: "80px" }}>
 
-          <h1 className='fs-4'>{productName}</h1>
+          <h1 className='fs-4 mb-3'>{productName}</h1>
           <p className='fs-6 text-muted'>{productDescription}</p>
           <div>
             <a href={tryDemo} style={{ textDecoration: "none" }}>Try Demo <i className="fa fa-long-arrow-right" aria-hidden="true"></i></a>
