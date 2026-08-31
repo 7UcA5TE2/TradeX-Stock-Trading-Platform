@@ -10,8 +10,9 @@ function PricingPage() {
     <>
       <Navbar/>
       <HeroSection />
+      <OpenAccount/>
+      <hr className=" container border-buttom" style={{marginTop:"5rem"}}/>
       <BrokeRage />
-      <OpenAccount />
       <Footer/>
     </>
   );
